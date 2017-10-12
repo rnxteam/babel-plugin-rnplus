@@ -1,6 +1,6 @@
 {
     "name": "babel-plugin-rnplus",
-    "version": "0.0.4-beta",
+    "version": "0.0.4",
     "main": "lib/index.js",
     "description": "RNPlus Plugin for Babel",
     "dependencies": {
